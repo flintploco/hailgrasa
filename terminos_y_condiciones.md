@@ -45,7 +45,7 @@ El servicio se proporciona **"tal cual" (*as is*)** y **"según disponibilidad"*
 ---
 
 ## 6. 🚫 Propiedad Intelectual y Sanciones
-* Todos los derechos de código, logotipos y marca pertenecen al desarrollador de **[Hail Grasa]**.
+* Todos los derechos de código, logotipos y marca pertenecen al desarrollador de **Hail Grasa**.
 * Nos reservamos el derecho de bloquear permanentemente el acceso al bot a cualquier usuario o servidor que abuse de los comandos, cometa acoso o viole las políticas de la plataforma.
 
 ---
