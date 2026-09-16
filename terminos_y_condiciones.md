@@ -37,7 +37,7 @@ Nos tomamos en serio la privacidad de los usuarios. El bot recopila los siguient
 ---
 
 ## 5. ⚖️ Limitación de Responsabilidad
-El servicio se proporciona **"tal cual" (*as is*)** y **"según disponibilidad"**. El creador o los desarrolladores del bot no se hacen responsables de:
+El servicio se proporciona **"tal cual"** y **"según disponibilidad"**. El creador o los desarrolladores del bot no se hacen responsables de:
 * Pérdidas de datos o configuraciones dentro del bot.
 * Interrupciones del servicio o caídas generales del bot.
 * Sanciones o baneos aplicados por Discord en tu servidor debido a una mala configuración del bot por parte de sus administradores.
@@ -52,5 +52,5 @@ El servicio se proporciona **"tal cual" (*as is*)** y **"según disponibilidad"*
 
 ### 📬 Contacto y Soporte
 Si tienes dudas sobre estos términos o experimentas algún problema con el servicio, puedes contactarnos a través de:
-* 👥 **Servidor de soporte:** `[Enlace a tu servidor de Discord]`
-* 📧 **Correo electrónico:** `[Tu correo de contacto - Opcional]`
+* 👥 **Servidor de soporte:** `Todavia no tenemos`
+* 📧 **Correo electrónico:** `flintpeluso@gmail.com`
